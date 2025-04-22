@@ -2,6 +2,8 @@
 
 
 ![Screenshot_6-5-2024_18354_127 0 0 1](https://github.com/DAKSHPATEL04/Parallax-Website-with-HTML-and-CSS/assets/160720470/25c496c7-1e8e-4208-8ea4-a6f84f768c33)
+![Screenshot (6)](https://github.com/user-attachments/assets/bcb0d37e-f795-4201-ba54-fef7946d268e)
+
 
 # Description:
 
